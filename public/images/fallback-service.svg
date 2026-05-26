@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none" role="img" aria-label="Service placeholder">
+  <rect width="600" height="400" fill="#faf7f2"/>
+  <rect x="40" y="40" width="520" height="320" rx="24" fill="#f0ebe3"/>
+  <circle cx="300" cy="175" r="55" fill="#5b9bd5" opacity="0.2"/>
+  <path d="M300 235c-52 0-88 32-96 72 3 10 12 17 24 17h144c12 0 21-7 24-17-8-40-44-72-96-72z" fill="#f4a261" opacity="0.45"/>
+  <text x="300" y="355" text-anchor="middle" font-family="system-ui,sans-serif" font-size="16" fill="#94a3b8">Pet Service</text>
+</svg>
